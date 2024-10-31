@@ -1,0 +1,2 @@
+PORT_NGINX=8088
+NGINX_CONF_FILE=local.conf
